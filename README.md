@@ -5,5 +5,5 @@ I am a sociology major at the University of Oregon with a CIT Minor. I am curren
 ### CIT 281 Projects
 
 - Project 1 (learned about for of loops and for... each meathod, and dice rolling)
-- [https://github.com/UO-CIT/project-2-sewing3.git](Project 2) (learned about APIs)
+- [Project 2](https://github.com/UO-CIT/project-2-sewing3.git) (learned about APIs)
 - Project 3 (learned about github user pages)
